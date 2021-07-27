@@ -54,4 +54,4 @@ productos.guardar('Calculadora', 234.56, 'https://es.wikipedia.org/wiki/Calculad
 productos.guardar('Globo Terraqueo', 345.67, 'https://es.wikipedia.org/wiki/Globo_terr%C3%A1queo#/media/Archivo:GlobeSK.jpg');
 productos.guardar('Traeme el error', 458.35, 666);
 productos.leer();
-//productos.borrar();
+productos.borrar();
